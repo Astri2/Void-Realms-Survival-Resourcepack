@@ -30,7 +30,3 @@ How your folders should be organized (you can remove the readme.md file)
 
 # 🙏 Credits
 * Thanks to everyone who helped me making the textures!
-
-------
-
-[![](https://cdn.discordapp.com/attachments/861655481608699914/876261086654005298/discordBanner.png)](http://discord.gg/a6RX9yPdJn)
