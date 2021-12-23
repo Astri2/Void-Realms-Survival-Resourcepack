@@ -12,7 +12,7 @@ Void-Realms-Survival-Resourcepack
 * This pack requires [Optifine](https://optifine.net/home) to work
 
 # 📂 How to install?
-* Download the [lastest release](https://github.com/Astri2/Void-Realms-Survival-Resourcepack/releases) of the pack
+* Click on code -> download ZIP from the home repository page
 * put the zip in your ressource pack folder
 * Select it
 * And that's it, your textures should be customized
