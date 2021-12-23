@@ -1,4 +1,4 @@
-Void-Realms-Survival-Resourcepack
+Void-Realms-Towny-Resourcepack
 ======
 
 # 📜 Summary
